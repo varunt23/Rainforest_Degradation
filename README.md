@@ -2,4 +2,6 @@
 collection of notebooks used to analyze forest degradation time series data
 
 List of Data Sources Used:
-https://www.kaggle.com/mbogernetto/brazilian-amazon-rainforest-degradation#def_area_2004_2019.csv
+
+
+1: https://www.kaggle.com/mbogernetto/brazilian-amazon-rainforest-degradation#def_area_2004_2019.csv
