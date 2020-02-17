@@ -1,5 +1,5 @@
 # Rainforest_Degradation
-collection of notebooks used to analyze forest degradation time series data
+collection of notebooks used to analyze forest degradation time series data for the amazon rainforest
 
 List of Data Sources Used:
 
